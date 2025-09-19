@@ -1,4 +1,4 @@
-![](https://files.catbox.moe/hw8uz9.png)
+![](https://files.catbox.moe/zy3o43.gif)
 ![♡⃞⠀](https://komarev.com/ghpvc/?username=eriis&label=✦&color=E4BDD1)
 
 <!--
