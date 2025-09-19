@@ -1,4 +1,4 @@
-![Nyan Cat](https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif)
+![](https://files.catbox.moe/hw8uz9.png)
 ![♡⃞⠀](https://komarev.com/ghpvc/?username=eriis&label=✦&color=E4BDD1)
 
 <!--
