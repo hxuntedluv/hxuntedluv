@@ -2,7 +2,7 @@
 
 ![](https://files.catbox.moe/zy3o43.gif)
 
-ㅤㅤㅤㅤㅤㅤㅤㅤ![♡⃞⠀](https://komarev.com/ghpvc/?username=eriis&label=✦&color=E4BDD1)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![♡⃞⠀](https://komarev.com/ghpvc/?username=eriis&label=✦&color=E4BDD1)
 
 <!--
 **hxuntedluv/hxuntedluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
