@@ -1,7 +1,5 @@
-![](https://files.catbox.moe/xbfetm.gif)
-
 ![](https://files.catbox.moe/taenit.gif)
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=eriis&label=✦&color=F097C5)![](https://files.catbox.moe/q7tdne.gif)  
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=eriis&label=✦&color=F097C5)
 
 
 <!--
