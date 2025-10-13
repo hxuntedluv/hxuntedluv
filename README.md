@@ -1,7 +1,7 @@
-![](https://files.catbox.moe/4zzvom.png)
+![](https://files.catbox.moe/xbfetm.gifv)
 
-![](https://files.catbox.moe/zl6i7o.gif)
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=eriis&label=✦&color=D9D9D9)  
+![](https://files.catbox.moe/xc60jy.jpg)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=eriis&label=✦&color=F097C5)  
 
 
 <!--
