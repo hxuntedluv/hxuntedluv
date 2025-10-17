@@ -1,3 +1,5 @@
+![strawpagee](https://straw.page/eriisqw2)  
+![rentry](https://rentry.com/hxuntedluv)  
 ![](https://files.catbox.moe/1wyxq2.png)
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=eriis&label=✦&color=686868)
 
