@@ -1,10 +1,3 @@
-<iframe style="border-radius:12px" 
-src="https://open.spotify.com/embed/track/17Wks0pgofBbv53Ay7m4Jc?utm_source=generator" 
-width="100%" height="152" frameBorder="0" 
-allowfullscreen="" 
-allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-![strawpage](https://straw.page/eriisqw2)  
-[rentry](https://rentry.com/hxuntedluv)
 ![](https://files.catbox.moe/1wyxq2.png)
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=eriis&label=✦&color=686868)
 
