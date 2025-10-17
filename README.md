@@ -1,4 +1,8 @@
- 
+<p align="center">
+  <a href="https://eriisqw2.straw.page" target="_blank">
+    straw page💭
+  </a>
+</p> 
 ![](https://files.catbox.moe/1wyxq2.png)
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=eriis&label=✦&color=686868)
 
