@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <a href="https://eriisqw2.straw.page" target="_blank">
     straw page💭
   </a>
