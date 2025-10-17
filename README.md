@@ -1,5 +1,5 @@
-![](https://files.catbox.moe/taenit.gif)
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=eriis&label=✦&color=F097C5)
+![](https://files.catbox.moe/tfotw6.png)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=eriis&label=✦&color=black)
 
 
 <!--
