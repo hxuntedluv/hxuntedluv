@@ -2,7 +2,11 @@
   <a href="https://eriisqw2.straw.page" target="_blank">
     straw page💭
   </a>
-</p> 
+</p> <p align="center">
+  <a href="https://rentry.co/hxuntedluv" target="_blank">
+    rentry💭
+  </a>
+</p>
 
 ![](https://files.catbox.moe/1wyxq2.png)
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=eriis&label=✦&color=686868)
