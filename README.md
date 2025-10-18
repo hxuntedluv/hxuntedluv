@@ -1,8 +1,7 @@
-<p align="right">
+<p align="left">
   <a href="https://eriisqw2.straw.page" target="_blank">
     straw page💭
-  </a>
-</p> <p align="center">
+  </a> </p> <p align="center">
   <a href="https://rentry.co/hxuntedluv" target="_blank">
     rentry💭
   </a>
