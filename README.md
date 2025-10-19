@@ -6,7 +6,7 @@
     rentry💭
   </a>
 </p> <p align="right">
-  <a href="erisqw2.atabook.org" target="_blank">
+  <a href="https://erisqw2.atabook.org/" target="_blank">
     atabook💭
   </a>
   </p>
