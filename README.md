@@ -6,8 +6,8 @@
     rentry💭
   </a>
 </p> <p align="right">
-  <a href="https://pin.it/aItnUNlFf" target="_blank">
-    pintrst💭
+  <a href="erisqw2.atabook.org" target="_blank">
+    atabook💭
   </a>
   </p>
 
