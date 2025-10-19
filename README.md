@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://eriisqw2.straw.page" target="_blank">
+  <a href="https://hxuntedluv.straw.page" target="_blank">
     straw page💭
   </a> </p> <p align="center">
   <a href="https://rentry.co/hxuntedluv" target="_blank">
