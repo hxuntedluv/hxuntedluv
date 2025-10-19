@@ -11,7 +11,7 @@
   </a>
   </p>
 
-![](https://files.catbox.moe/1wyxq2.png)
+![](https://files.catbox.moe/ci7cvi.jpg)
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=eriis&label=✦&color=686868)
 
 
