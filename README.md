@@ -5,7 +5,11 @@
   <a href="https://rentry.co/hxuntedluv" target="_blank">
     rentry💭
   </a>
-</p>
+</p> <p align="right">
+  <a href="https://pin.it/aItnUNlFf" target="_blank">
+    pintrst💭
+  </a>
+  </p>
 
 ![](https://files.catbox.moe/1wyxq2.png)
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=eriis&label=✦&color=686868)
