@@ -1,11 +1,11 @@
 <p align="left">
   <a href="https://hxuntedluv.straw.page" target="_blank">
     straw page💭
-  </a> </p> <p align="center">
+  </a> </p><p align="center">
   <a href="https://rentry.co/hxuntedluv_" target="_blank">
     rentry💭
   </a>
-</p> <p align="right">
+</p><p align="right">
   <a href="https://erisqw2.atabook.org/" target="_blank">
     atabook💭
   </a>
