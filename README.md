@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://hxuntedluv.straw.page" target="_blank">straw page💭‍‍⠀ ⠀ ⠀</a>   
-  <a href="https://rentry.co/hxuntedluv_" target="_blank">rentry💭‍‍⠀ ⠀ ⠀</a>   
-  <a href="https://erisqw2.atabook.org/" target="_blank">atabook💭‍‍⠀⠀⠀</a>
+  <a href="https://hxuntedluv.straw.page" target="_blank">straw page💭</a>   
+  <a href="https://rentry.co/hxuntedluv_" target="_blank">rentry💭</a>   
+  <a href="https://erisqw2.atabook.org/" target="_blank">atabook💭</a>
 </p>
 <p align="center">
   <img src="https://files.catbox.moe/32xvgg.jpg" alt="image"/>
