@@ -4,7 +4,7 @@
   <a href="https://erisqw2.atabook.org/" target="_blank">atabook💭</a>
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/a3y90i.jpg" alt="image"/>
+  <img src="https://files.catbox.moe/nexwoj.jpg" alt="image"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eriis&label=ꨄ&color=686868" alt="views"/>
