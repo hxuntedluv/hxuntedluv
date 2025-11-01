@@ -7,7 +7,7 @@
   <img src="https://files.catbox.moe/nexwoj.jpg" alt="image"/>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=puppylove&label=ꨄ&color=686868" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=ꨄ&color=686868" alt="views"/>
 </p>
 
 <!--
