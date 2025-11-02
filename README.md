@@ -8,8 +8,7 @@
 </p>
 <p align="center">
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eriis&label=ꨄ&color=686868" alt="views"/>
-</p>
-<p align="center">
-  <img src="https://files.catbox.moe/qshgie.gif" alt="Demo" width="500">
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=ꨄ&color=686868" alt="views" style="vertical-align: middle;"/>
+  <img src="https://files.catbox.moe/qshgie.gif" alt="Demo" width="100" style="vertical-align: middle;"/>
 </p>
