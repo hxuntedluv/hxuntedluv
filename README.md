@@ -9,6 +9,8 @@
 <p align="center">
 <p align="center">
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eriis&label=ꨄ&color=686868" alt="views" style="vertical-align: middle;"/>
-  <img src="https://files.catbox.moe/ci3xsv.webp" alt="Demo" width="100" style="vertical-align: middle;"/>
-</p>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=ꨄ&color=686868" alt="views" style="vertical-align: middle; height: 20px;"/>
+  &nbsp;
+  <img src="https://files.catbox.moe/ci3xsv.webp" alt="gif" style="vertical-align: middle; height: 20px;"/>
+  </p>
