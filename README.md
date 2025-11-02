@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eriis&label=ꨄ&color=686868" alt="views"/>
-</p>![](https://files.catbox.moe/5z4995.gif)
+</p> ![](https://files.catbox.moe/5z4995.gif)
 
 <!--
 **hxuntedluv/hxuntedluv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
