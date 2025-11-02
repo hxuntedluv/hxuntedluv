@@ -12,5 +12,5 @@
   <p align="center">
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eriis&label=ꨄ&color=686868" alt="views" style="vertical-align: middle; height: 24px;"/>
-  <img src="https://files.catbox.moe/ci3xsv.webp" alt="gif" style="vertical-align: middle; height: 26px; margin-left: -2px;"/>
+  <img src="https://files.catbox.moe/qshgie.gif" alt="gif" style="vertical-align: middle; height: 26px; margin-left: -2px;"/>
   </p>
