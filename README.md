@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://hxuntedluv.straw.page" target="_blank">straw page💭</a> &nbsp;&nbsp;
   <a href="https://rentry.co/imisstheoldus" target="_blank">rentry💭</a> &nbsp;&nbsp;
   <a href="https://erisqw2.atabook.org/" target="_blank">atabook💭</a>
 </p>
