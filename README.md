@@ -13,4 +13,5 @@
   <p align="center">
   <p align="center">
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eriis&label=ꨄ&color=FD7EB2" alt="views" style="vertical-align: middle; height: 24px;"/>
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=ꨄ&color=FD7EB2" alt="views" style="vertical-align: middle; height: 24px;"/> <img src="https://files.catbox.moe/bnqh2d.gif" alt="gif" style="vertical-align: middle; height: 26px; margin-left: -2px;"/>
+  </p>
