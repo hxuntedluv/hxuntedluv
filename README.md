@@ -1,4 +1,4 @@
-<img src="https://files.catbox.moe/omfaad.gif" width="600">
+<img src="https://files.catbox.moe/omfaad.gif" width="900">
 </p>
   </p>
 <p align="center">
