@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-  <img src="https://files.catbox.moe/xbfetm.gifv" alt="gifv" />
+  <img src="https://files.catbox.moe/xbfetm.gif" alt="gif" />
 </p>
   </p>
 <p align="center">
