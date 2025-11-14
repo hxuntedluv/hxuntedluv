@@ -1,4 +1,4 @@
-![](https://files.catbox.moe/xbfetm.gifv)
+![Alt Text](https://i.imgur.com/xyz123.gif)
   </p>
 <p align="center">
   <a href="https://rentry.co/imisstheoldus" target="_blank">rentry💭</a> &nbsp;&nbsp;
