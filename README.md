@@ -6,7 +6,7 @@
   <a href="https://erisqw2.atabook.org/" target="_blank">atabook💭</a>
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/o5g6l8.png" alt="image"/>
+<img src="https://files.catbox.moe/pscfp4.jpg" width="250">
 </p>
 <p align="center">
 <p align="center">
