@@ -5,7 +5,7 @@
   <a href="https://rentry.co/imisstheoldus" target="_blank">rentry💭</a>
   <img src="https://files.catbox.moe/lszite.gif" 
        alt="gif" 
-       style="vertical-align: middle; height: 26px; margin: 0 10px;"/>
+       style="vertical-align: middle; height: 26px; margin: 0 20px;"/>
   <a href="https://erisqw2.atabook.org/" target="_blank">atabook💭</a>
 </p>
 <p align="center">
