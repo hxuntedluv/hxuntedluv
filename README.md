@@ -1,9 +1,11 @@
+<img src="https://files.catbox.moe/xbfetm.gifv" alt="gif"/>
+  </p>
 <p align="center">
   <a href="https://rentry.co/imisstheoldus" target="_blank">rentry💭</a> &nbsp;&nbsp;
   <a href="https://erisqw2.atabook.org/" target="_blank">atabook💭</a>
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/f0f6f2.jpg" alt="image"height: 30px;/>
+  <img src="https://files.catbox.moe/f0f6f2.jpg" alt="image"/>
 </p>
 <p align="center">
 <p align="center">
