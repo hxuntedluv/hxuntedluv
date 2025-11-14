@@ -1,4 +1,4 @@
-<img src="https://files.catbox.moe/xbfetm.gifv" alt="gif"/>
+![](https://files.catbox.moe/xbfetm.gifv)
   </p>
 <p align="center">
   <a href="https://rentry.co/imisstheoldus" target="_blank">rentry💭</a> &nbsp;&nbsp;
