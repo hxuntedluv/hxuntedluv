@@ -2,7 +2,9 @@
 </p>
   </p>
 <p align="center">
-  <a href="https://rentry.co/imisstheoldus" target="_blank">rentry💭</a> &nbsp;&nbsp;
+  <a href="https://rentry.co/imisstheoldus" target="_blank">rentry💭</a> <img src="https://files.catbox.moe/lszite.gif" alt="gif" style="vertical-align: middle; height: 26px; margin-left: -2px;"/>
+  </p>
+ &nbsp;&nbsp;
   <a href="https://erisqw2.atabook.org/" target="_blank">atabook💭</a>
 </p>
 <p align="center">
