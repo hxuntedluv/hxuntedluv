@@ -1,4 +1,6 @@
-![Alt Text](https://i.imgur.com/xyz123.gif)
+<p style="text-align: center;">
+  <img src="https://files.catbox.moe/xbfetm.gifv" alt="gif" />
+</p>
   </p>
 <p align="center">
   <a href="https://rentry.co/imisstheoldus" target="_blank">rentry💭</a> &nbsp;&nbsp;
