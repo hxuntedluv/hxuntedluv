@@ -3,7 +3,7 @@
   <a href="https://erisqw2.atabook.org/" target="_blank">atabook💭</a>
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/f0f6f2.jpg" alt="image"/>
+  <img src="https://files.catbox.moe/f0f6f2.jpg" alt="image"height: 100px;/>
 </p>
 <p align="center">
 <p align="center">
