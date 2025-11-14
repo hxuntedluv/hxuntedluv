@@ -2,7 +2,7 @@
   <img src="https://files.catbox.moe/omfaad.gif" width="900">
 </p>
 <p align="center">
-  <a href="https://rentry.co/imisstheoldus" target="_blank">rentry💭</a>
+  <a href="https://rentry.co/erisqw2" target="_blank">rentry💭</a>
   <img src="https://files.catbox.moe/lszite.gif"
        alt="gif"
        style="vertical-align: middle; height: 26px; margin: 0 90px;"/>
