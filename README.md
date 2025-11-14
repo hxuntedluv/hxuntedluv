@@ -1,5 +1,4 @@
-<p style="text-align: center;">
-  <img src="https://files.catbox.moe/omfaad.gif" alt="gif"/>
+<img src="https://files.catbox.moe/omfaad.gif" width="400">
 </p>
   </p>
 <p align="center">
