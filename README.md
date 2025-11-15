@@ -2,11 +2,11 @@
   <img src="https://files.catbox.moe/omfaad.gif" width="900">
 </p>
 <p align="center">
-  <a href="https://rentry.co/erisqw2" target="_blank">rentry💭</a>
+  <a href="https://rentry.co/erisqw2" target="_blank">rentry</a>
   <img src="https://files.catbox.moe/lszite.gif"
        alt="gif"
        style="vertical-align: middle; height: 26px; margin: 0 90px;"/>
-  <a href="https://erisqw2.atabook.org/" target="_blank">atabook💭</a>
+  <a href="https://erisqw2.atabook.org/" target="_blank">atabook</a>
 </p>
 <p align="center">
   <img src="https://files.catbox.moe/pscfp4.jpg" width="380">
