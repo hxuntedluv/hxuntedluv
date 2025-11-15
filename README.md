@@ -12,6 +12,6 @@
   <img src="https://files.catbox.moe/pscfp4.jpg" width="380">
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eriis&label=ꉂ(˵˃ ᗜ ˂˵)&color=FD7EB2" alt="views" style="vertical-align: middle; height: 24px;"/>
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=˙𐃷˙&color=FD7EB2" alt="views" style="vertical-align: middle; height: 24px;"/>
   <img src="https://files.catbox.moe/bnqh2d.gif" alt="gif" style="vertical-align: middle; height: 26px; margin-left: -2px;"/>
 </p>
