@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/omfaad.gif" width="400">
+  <img src="https://files.catbox.moe/omfaad.gif" width="500">
 </p>
 <p align="center">
   <a href="https://rentry.co/erisqw2" target="_blank">rᥱᥒ𝗍rᥡ⊹ ࣪ ˖</a>
@@ -17,4 +17,4 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/omfaad.gif" width="400">
+  <img src="https://files.catbox.moe/omfaad.gif" width="500">
