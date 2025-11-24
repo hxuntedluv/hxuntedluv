@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://rentry.co/erisqw2" target="_blank">rentry💭</a>
+  <a href="https://rentry.co/erisqw2" target="_blank">rentry</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://erisqw2.atabook.org" target="_blank">atabook💭</a>
+  <a href="https://erisqw2.atabook.org" target="_blank">atabook</a>
 </p>
 <p align="center">
   <img src="https://files.catbox.moe/6frxp3.jpg" width="380">
