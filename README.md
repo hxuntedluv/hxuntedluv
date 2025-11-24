@@ -1,12 +1,3 @@
-</style>
-  a {
-    color: white !important;
-    text-decoration: none;
-  }
-  a:hover {
-    color: #cccccc !important;
-  }
-</style>
 <p align="center">
   <a href="https://rentry.co/erisqw2" target="_blank">rentry💭</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
