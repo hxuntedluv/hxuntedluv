@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rentry.co/erisqw2" target="_blank">rentry💭</a>
-  <span style="display:inline-block; width:80px;"></span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://erisqw2.atabook.org" target="_blank">atabook💭</a>
 </p>
 <p align="center">
