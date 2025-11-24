@@ -1,4 +1,4 @@
-<style>
+</style>
   a {
     color: white !important;
     text-decoration: none;
