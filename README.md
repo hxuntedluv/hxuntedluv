@@ -8,6 +8,8 @@
 </p>
 <p align="center">
   <img src="https://files.catbox.moe/qrd0xr.gif" width="540">
+  <p align="center">
+  <img src="https://files.catbox.moe/3u0gsl.png" width="540">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eriis&label=‎ᯓᡣ𐭩&color=000000" alt="views" style="vertical-align: middle; height: 24px;"/>
