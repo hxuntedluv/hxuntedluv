@@ -1,3 +1,6 @@
+p align="center">
+  <img src="https://files.catbox.moe/meztt1.png" width="560">
+</p>
 <p align="center">
   <a href="https://rentry.co/erisqw2" target="_blank"> 𝑅𝒆𝒏𝒕𝒓𝒚</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
