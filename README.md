@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://files.catbox.moe/f7utav.gif" width="540">
   <p align="center">
-  <img src="https://files.catbox.moe/3u0gsl.png" width="540">
+  <img src="https://files.catbox.moe/lsqmfa.png" width="540">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eriis&label=‎ᯓᡣ𐭩&color=D999B3" alt="views" style="vertical-align: middle; height: 24px;"/>
