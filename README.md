@@ -10,7 +10,7 @@
   <a href="https://erisqw2.atabook.org" target="_blank">𝐴𝒕𝒂𝒃𝒐𝒐𝒌</a>
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/qrd0xr.gif" width="540">
+  <img src="https://files.catbox.moe/h52usf.gif" width="540">
   <p align="center">
   <img src="https://files.catbox.moe/3u0gsl.png" width="540">
 </p>
