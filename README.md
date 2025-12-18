@@ -4,8 +4,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://erisqw2.atabook.org" target="_blank">𝐴𝒕𝒂𝒃𝒐𝒐𝒌</a>
 <p align="center">
-  <img src="https://files.catbox.moe/3u0gsl.png" width="545">
-</p>
 </p>
 <p align="center">
   <img src="https://files.catbox.moe/miu094.gif" width="540">
