@@ -6,7 +6,7 @@
 <p align="center">
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/0azl7k.jpg" width="540">
+  <img src="https://files.catbox.moe/n1mfqq.jpg" width="540">
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eriis&label=‎ᯓᡣ𐭩&color=000000" alt="views" style="vertical-align: middle; height: 24px;"/>
 </p>
