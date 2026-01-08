@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/w9zc64.jpg" width="540">
+  <img src="https://files.catbox.moe/8ckoyt.jpg" width="540">
 </p>
 <p align="center">
   <a href="https://rentry.co/erisqw2" target="_blank"> 𝑅𝒆𝒏𝒕𝒓𝒚</a>
@@ -8,5 +8,5 @@
   <a href="https://erisqw2.atabook.org" target="_blank">𝐴𝒕𝒂𝒃𝒐𝒐𝒌</a>
 <p align="center">
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎ೀ&color=000000" alt="views" style="vertical-align: middle; height: 24px;"/>
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎ೀ&color=B3A8A2" alt="views" style="vertical-align: middle; height: 24px;"/>
 </p>
