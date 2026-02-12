@@ -11,5 +11,5 @@
   </a>
 </h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎݁˖Ი𐑼⋆&color=D54851" height="29">
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎݁˖Ი𐑼⋆&color=D54851" height="40">
 </p>
