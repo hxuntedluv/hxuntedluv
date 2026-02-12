@@ -1,12 +1,16 @@
 <p align="center">
   <img src="https://files.catbox.moe/doxv0u.png" width="310">
 </p>
-<p align="center" style="font-size: 28px;">
-  <a href="https://rentry.co/erisqw2" target="_blank">
+<p align="center" style="font-size: 22px;">
+  <a href="https://rentry.co/erisqw2"
+     target="_blank"
+     style="color:#D54851; text-decoration:none;">
     <b>𝑅𝒆𝒏𝒕𝒓𝒚</b>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://erisqw2.atabook.org" target="_blank">
+  <a href="https://erisqw2.atabook.org"
+     target="_blank"
+     style="color:#D54851; text-decoration:none;">
     <b>𝐴𝒕𝒂𝒃𝒐𝒐𝒌</b>
   </a>
 </p>
