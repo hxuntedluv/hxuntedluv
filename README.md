@@ -1,16 +1,15 @@
 <p align="center">
   <img src="https://files.catbox.moe/doxv0u.png" width="310">
 </p>
-<p align="center">
+<h3 align="center">
   <a href="https://rentry.co/erisqw2" target="_blank">
-    <img src="https://svgshare.com/i/16qF.svg" height="28">
+    <span style="color:#D54851;">𝑅𝒆𝒏𝒕𝒓𝒚</span>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://erisqw2.atabook.org" target="_blank">
-    <img src="https://svgshare.com/i/16qG.svg" height="28">
+    <span style="color:#D54851;">𝐴𝒕𝒂𝒃𝒐𝒐𝒌</span>
   </a>
-</p>
+</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎݁˖Ი𐑼⋆&color=D54851"
-       height="24" />
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎݁˖Ი𐑼⋆&color=D54851" height="24">
 </p>
