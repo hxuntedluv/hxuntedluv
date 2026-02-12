@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://files.catbox.moe/doxv0u.png" width="340">
 </p>
-<p align="center" style="font-size:28px;"> <!-- Yazı boyutu buradan ayarlanıyor -->
+<p align="center" style="font-size:38px;"> 
   <a href="https://rentry.co/erisqw2" target="_blank">
     <span style="color:#D54851;">𝑅𝒆𝒏𝒕𝒓𝒚</span>
   </a>
