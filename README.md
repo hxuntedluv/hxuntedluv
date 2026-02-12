@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/doxv0u.png" width="330">
+  <img src="https://files.catbox.moe/doxv0u.png" width="340">
 </p>
 <p align="center">
   <a href="https://rentry.co/erisqw2" target="_blank">
@@ -12,5 +12,5 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eriis&label=‎݁˖Ი𐑼⋆&color=D54851"
-       height="80">
+       width="40">
 </p>
