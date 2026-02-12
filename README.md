@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/doxv0u.png" width="310">
+  <img src="https://files.catbox.moe/doxv0u.png" width="330">
 </p>
 <p align="center">
   <a href="https://rentry.co/erisqw2" target="_blank"> 𝑅𝒆𝒏𝒕𝒓𝒚</a>
