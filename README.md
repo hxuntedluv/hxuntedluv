@@ -5,7 +5,7 @@
   <a href="https://rentry.co/erisqw2" target="_blank">
     <span style="color:#D54851;">𝑅𝒆𝒏𝒕𝒓𝒚</span>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://erisqw2.atabook.org" target="_blank">
     <span style="color:#D54851;">𝐴𝒕𝒂𝒃𝒐𝒐𝒌</span>
   </a>
