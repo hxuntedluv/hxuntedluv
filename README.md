@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://files.catbox.moe/doxv0u.png" width="310">
 </p>
-<h3 align="center">
+<p align="center">
   <a href="https://rentry.co/erisqw2" target="_blank">
     <span style="color:#D54851;">𝑅𝒆𝒏𝒕𝒓𝒚</span>
   </a>
@@ -9,7 +9,7 @@
   <a href="https://erisqw2.atabook.org" target="_blank">
     <span style="color:#D54851;">𝐴𝒕𝒂𝒃𝒐𝒐𝒌</span>
   </a>
-</h3>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eriis&label=‎݁˖Ი𐑼⋆&color=D54851" height="24">
 </p>
