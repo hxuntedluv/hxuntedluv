@@ -5,11 +5,11 @@
 <!-- Rentry ve Atabook Linkleri -->
 <p align="center">
   <a href="https://rentry.co/erisqw2" target="_blank">
-    <img src="https://files.catbox.moe/a4gzp2.png" width="160" alt="Rentry">
+    <img src="https://files.catbox.moe/a4gzp2.png" width="100" alt="Rentry">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://erisqw2.atabook.org" target="_blank">
-    <img src="https://files.catbox.moe/xemgcm.png" width="160" alt="Atabook">
+    <img src="https://files.catbox.moe/xemgcm.png" width="100" alt="Atabook">
   </a>
 </p>
 <!-- Sayaç / Views -->
