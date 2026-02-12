@@ -12,5 +12,5 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eriis&label=‎݁˖Ი𐑼⋆&color=D54851"
-       width="100">
+       width="85">
 </p>
