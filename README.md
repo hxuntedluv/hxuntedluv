@@ -9,7 +9,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://erisqw2.atabook.org" target="_blank">
-    <img src="https://files.catbox.moe/xemgcm.png" width="105" alt="Atabook">
+    <img src="https://files.catbox.moe/xemgcm.png" width="108" alt="Atabook">
   </a>
 </p>
 <!-- Sayaç / Views -->
