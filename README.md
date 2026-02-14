@@ -14,6 +14,6 @@
 </p>
 <!-- Sayaç / Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎݁˖Ი𐑼⋆&color=D54851"
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎ᥬᩤ&color=D54851"
        width="95" alt="views">
 </p>
