@@ -2,8 +2,7 @@
 <p align="center">
   <img src="https://files.catbox.moe/8e6tqx.jpg" width="400" >
 </p>
-<!-- Sayaç / Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎ᥬᩤ&color=4f4f4f"
-       width="95" alt="views">
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎♡&color=4f4f4f"
+       width="90" alt="views">
 </p>
