@@ -1,6 +1,6 @@
 <!-- Kırmızı Kız Fotoğrafı (Sadece Görüntü) -->
 <p align="center">
-  <img src="https://files.catbox.moe/88zwy8.jpg" width="400" >
+  <img src="https://files.catbox.moe/7oo2jp.jpg" width="400" >
 </p>
 <!-- Sayaç / Views -->
 <p align="center">
