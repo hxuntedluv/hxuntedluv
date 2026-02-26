@@ -1,4 +1,5 @@
 <!-- Kırmızı Kız Fotoğrafı (Sadece Görüntü) -->
+
 <p align="center">
   "𝗘𝘃𝗲𝗻 𝗮𝗳𝘁𝗲𝗿 𝗲𝘃𝗲𝗿𝘆𝘁𝗵𝗶𝗻𝗴,
 <p align="center">
