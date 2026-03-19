@@ -1,6 +1,6 @@
 ㅤㅤㅤㅤㅤㅤㅤ
 <p align="center">
-  <img src="https://files.catbox.moe/khms5y.jpg" width="471" >
+  <img src="https://files.catbox.moe/vl6m6n.jpg" width="471" >
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eriis&label=‎𖹭&color=4f4f4f"
