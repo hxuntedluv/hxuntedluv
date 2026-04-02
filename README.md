@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/2ghnre.png" width="380">
+  <img src="https://files.catbox.moe/2ghnre.png" width="400">
 </p>
 <!-- Rentry ve Atabook Linkleri -->
 <p align="center">
