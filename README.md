@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/2ghnre.png" width="380" >
+  <img src="https://files.catbox.moe/2ghnre.png" width="380">
 </p>
 <!-- Rentry ve Atabook Linkleri -->
 <p align="center">
@@ -13,6 +13,6 @@
 </p>
 <!-- Sayaç / Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎✚&color=77708B"
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=✚&color=77708B"
        width="90" alt="views">
 </p>
