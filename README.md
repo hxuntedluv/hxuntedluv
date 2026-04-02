@@ -4,11 +4,11 @@
 <!-- Rentry ve Atabook Linkleri -->
 <p align="center">
   <a href="https://rentry.co/erisqw2" target="_blank">
-    <img src="https://files.catbox.moe/nnkl0d.png" width="120" alt="Rentry">
+    <img src="https://files.catbox.moe/4hsfgq.png" width="120" alt="Rentry">
   </a>
                 
   <a href="https://erisqw2.atabook.org" target="_blank">
-    <img src="https://files.catbox.moe/7y08fw.png" width="128" alt="Atabook">
+    <img src="https://files.catbox.moe/rtsqzk.png" width="128" alt="Atabook">
   </a>
 </p>
 <!-- Sayaç / Views -->
