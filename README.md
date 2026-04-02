@@ -3,11 +3,11 @@
 </p>
 <!-- Rentry ve Atabook Linkleri -->
 <p align="center">
-  <a href="https://rentry.co/erisqw2" target="_blank">
+  <a href="https://rentry.co/erisqw2" target="_blank" style="margin-right: 20px;">
     <img src="https://files.catbox.moe/4hsfgq.png" width="120" alt="Rentry">
   </a>
                 
-  <a href="https://erisqw2.atabook.org" target="_blank">
+  <a href="https://erisqw2.atabook.org" target="_blank" style="margin-left: 20px;">
     <img src="https://files.catbox.moe/rtsqzk.png" width="128" alt="Atabook">
   </a>
 </p>
