@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://files.catbox.moe/2ghnre.png" width="340" >
+  <img src="https://files.catbox.moe/2ghnre.png" width="360" >
 </p>
 <!-- Rentry ve Atabook Linkleri -->
 <p align="center">
   <a href="https://rentry.co/erisqw2" target="_blank">
-    <img src="https://files.catbox.moe/nnkl0d.png" width="100" alt="Rentry">
+    <img src="https://files.catbox.moe/nnkl0d.png" width="110" alt="Rentry">
   </a>
                 
   <a href="https://erisqw2.atabook.org" target="_blank">
-    <img src="https://files.catbox.moe/7y08fw.png" width="108" alt="Atabook">
+    <img src="https://files.catbox.moe/7y08fw.png" width="118" alt="Atabook">
   </a>
 </p>
 <!-- Sayaç / Views -->
