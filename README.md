@@ -4,7 +4,7 @@
 <!-- Rentry ve Atabook Linkleri -->
 <p align="center">
   <a href="https://rentry.co/erisqw2" target="_blank"><img src="https://files.catbox.moe/4hsfgq.png" width="110" alt="Rentry"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://erisqw2.atabook.org" target="_blank"><img src="https://files.catbox.moe/rtsqzk.png" width="120" alt="Atabook"></a>
+  <a href="https://erisqw2.atabook.org" target="_blank"><img src="https://files.catbox.moe/rtsqzk.png" width="125" alt="Atabook"></a>
 </p>
 <!-- Sayaç / Views -->
 <p align="center">
