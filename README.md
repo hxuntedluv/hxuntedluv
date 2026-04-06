@@ -1,13 +1,8 @@
 <p align="center">
-  <img src="https://files.catbox.moe/2ghnre.png" width="400">
-</p>
-<!-- Rentry ve Atabook Linkleri -->
-<p align="center">
-  <a href="https://rentry.co/erisqw2" target="_blank"><img src="https://files.catbox.moe/4hsfgq.png" width="110" alt="Rentry"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://erisqw2.atabook.org" target="_blank"><img src="https://files.catbox.moe/rtsqzk.png" width="125" alt="Atabook"></a>
+  <img src="https://files.catbox.moe/h28qyh.jpg" width="400">
 </p>
 <!-- Sayaç / Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎✚&color=77708B"
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎✚&color=000000"
        width="90" alt="views">
 </p>
