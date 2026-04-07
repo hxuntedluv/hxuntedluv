@@ -3,6 +3,6 @@
 </p>
 <!-- Sayaç / Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎>⩊<&color=FEEAF4"
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎>⩊<&color=A4618C"
        width="90" alt="views">
 </p>
