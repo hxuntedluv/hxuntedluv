@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://files.catbox.moe/vb9pf7.jpg" width="500"/>
+  <img src="https://files.catbox.moe/4bpnp7.jpg" width="560"/>
 </p>
 <!-- Sayaç / Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎Ი𐑼&color=DD78A9"
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎Ი𐑼&color=000000"
        width="90" alt="views">
 </p>
