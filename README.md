@@ -7,5 +7,5 @@
        width="90" alt="views">
 </p>
 <p align="center">
-  <img src="https://spotify-github-profile.hxuntedluv.com/api/view?uid=31skvmha2eoi3txr5srnp5paifeq&cover_image=false&theme=novatorem" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31skvmha2eoi3txr5srnp5paifeq&cover_image=false&theme=novatorem" />
 </p>
