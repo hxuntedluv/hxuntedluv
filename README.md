@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/vCpMq2r6" width="570"/>
+  <img src="https://postimg.cc/cKQrT8NR" width="570"/>
 </p>
 <!-- Sayaç / Views -->
 <p align="center">
