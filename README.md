@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://litter.catbox.moe/pbm070jm78ts4yky.jpg" width="570"/>
+  <img src="https://litter.catbox.moe/te7gkgo3xl21y143.jpg" width="570"/>
 </p>
 <!-- Sayaç / Views -->
 <p align="center">
