@@ -3,7 +3,7 @@
 </p>
 <!-- Sayaç / Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎♡⑅&color=D83179"
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=‎♡⑅&color=E4026B"
        width="90" alt="views">
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
