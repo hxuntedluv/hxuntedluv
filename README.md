@@ -11,6 +11,6 @@
   </a>
 </p>
 <div align="center">
-<img src="https://litter.catbox.moe/mv896pg7i3wa4cql.gif" width="260">
-<img src="https://litter.catbox.moe/gdxe9t4emr2eom2n.png" width="140">
-<img src="https://litter.catbox.moe/tbclmwy3latpg4b5.jpg" width="260">
+<img src="https://litter.catbox.moe/mpknskvkadbvxssl.gif" width="140">
+<img src="https://litter.catbox.moe/op8k2vl4f0eg1zrr.gif" width="140">
+<img src="https://litter.catbox.moe/wd0kwvugo7dopbq0.png" width="140">
