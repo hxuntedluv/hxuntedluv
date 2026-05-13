@@ -17,7 +17,7 @@
 <img src="https://litter.catbox.moe/b00cp5lr05boy5d9.png" width="140">
 <img src="https://litter.catbox.moe/8cv0x9pyhv20rraf.png" width="140">
 <img src="https://litter.catbox.moe/xzmkd2ea90pevo03.png" width="140">
-<img src="https://litter.catbox.moe/7gk3f42w2dezxn5r.gif" width="140">
+<img src="https://litter.catbox.moe/am66l0cp8yybpss2.png" width="140">
 <img src="https://litter.catbox.moe/otimf2we1yta77oc.png" width="140">
 <img src="https://litter.catbox.moe/mv896pg7i3wa4cql.gif" width="140">
 <img src="https://litter.catbox.moe/gdxe9t4emr2eom2n.png" width="140">
