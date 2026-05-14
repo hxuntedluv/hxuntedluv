@@ -14,7 +14,6 @@
 
 <img src="https://litter.catbox.moe/op8k2vl4f0eg1zrr.gif" width="140">
 <img src="https://litter.catbox.moe/wd0kwvugo7dopbq0.png" width="140">
-<img src="https://litter.catbox.moe/b00cp5lr05boy5d9.png" width="140">
 <img src="https://litter.catbox.moe/8cv0x9pyhv20rraf.png" width="140">
 <img src="https://litter.catbox.moe/xzmkd2ea90pevo03.png" width="140">
 <img src="https://litter.catbox.moe/am66l0cp8yybpss2.png" width="140">
