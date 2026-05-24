@@ -1,5 +1,6 @@
 <p align="center">
-![gif](https://litter.catbox.moe/ag6bjpbejkzox43z.gif)
+  <gif src="https://litter.catbox.moe/ag6bjpbejkzox43z.gif" width="410">
+</p>
 <!-- Sayaç / Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eriis&label=命&color=000000"
