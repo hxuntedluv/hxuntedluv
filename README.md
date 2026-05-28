@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://litter.catbox.moe/gjx6o9atcetwydj6.png" width="170">
+  <img src="https://litter.catbox.moe/rwo4jc2p4rxfuz6v.jpg" width="370">
 </p>
 
 <!-- Views Counter ABOVE -->
