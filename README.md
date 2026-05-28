@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://litter.catbox.moe/pt5bxb8bhy8xrfmw.png" width="260">
+  <img src="https://litter.catbox.moe/pt5bxb8bhy8xrfmw.png" width="200">
 </p>
 
 <!-- Views Counter ABOVE -->
