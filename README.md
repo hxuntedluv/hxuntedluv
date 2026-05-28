@@ -2,7 +2,7 @@
   <img src="https://litter.catbox.moe/gbnxjjg2ha2eqfdb.png" width="240">
 </p>
 <p align="center">
-  <img src="https://litter.catbox.moe/x5fkbztt6zootgl4.png" width="540">
+  <img src="https://litter.catbox.moe/ytlj90qp1klrxg85.png" width="330">
 </p>
 
 <!-- Views Counter ABOVE -->
