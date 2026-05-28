@@ -1,8 +1,6 @@
+
 <p align="center">
-  <img src="https://litter.catbox.moe/gbnxjjg2ha2eqfdb.png" width="240">
-</p>
-<p align="center">
-  <img src="https://litter.catbox.moe/10qzaimf97bpchzh.jpg" width="560">
+  <img src="https://litter.catbox.moe/pt5bxb8bhy8xrfmw.png" width="260">
 </p>
 
 <!-- Views Counter ABOVE -->
@@ -19,6 +17,3 @@
 </p>
 
 <div align="center">
-<p align="center">
-  <img src="https://litter.catbox.moe/gbnxjjg2ha2eqfdb.png" width="200">
-</p>
