@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://litter.catbox.moe/gbnxjjg2ha2eqfdb.png" width="240">
+  <img src="https://litter.catbox.moe/gbnxjjg2ha2eqfdb.png" width="200">
 </p>
 <p align="center">
-  <img src="https://litter.catbox.moe/10qzaimf97bpchzh.jpg" width="360">
+  <img src="https://litter.catbox.moe/10qzaimf97bpchzh.jpg" width="560">
 </p>
 
 <!-- Views Counter ABOVE -->
@@ -20,5 +20,5 @@
 
 <div align="center">
 <p align="center">
-  <img src="https://litter.catbox.moe/gbnxjjg2ha2eqfdb.png" width="240">
+  <img src="https://litter.catbox.moe/gbnxjjg2ha2eqfdb.png" width="200">
 </p>
