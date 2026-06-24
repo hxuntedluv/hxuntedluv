@@ -3,13 +3,13 @@
   <img src="https://i.postimg.cc/ncGyBSPZ/1000067081-removebg-preview.png" width="650">
 </p>
 <p align="center">
-  <img src="https://i.postimg.cc/R0HGQNZf/Untitled193-20260625000609.png" width="400">
+  <img src="https://i.postimg.cc/R0HGQNZf/Untitled193-20260625000609.png" width="80">
 </p>
 <p align="center">
   <img src="https://i.postimg.cc/D0qgVDXm/Untitled302-20260623112453.png" width="620">
 </p>
 <p align="center">
-  <img src="https://i.postimg.cc/R0HGQNZf/Untitled193-20260625000609.png" width="400">
+  <img src="https://i.postimg.cc/R0HGQNZf/Untitled193-20260625000609.png" width="100">
 </p>
 <p align="center">
   <img src="https://i.postimg.cc/QxvXYyqJ/1000067082-removebg-preview.png" width="620">
