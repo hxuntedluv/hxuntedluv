@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img src="https://i.postimg.cc/ncGyBSPZ/1000067081-removebg-preview.png" width="220">
+  <img src="https://i.postimg.cc/ncGyBSPZ/1000067081-removebg-preview.png" width="520">
 </p>
 <p align="center">
-  <img src="https://i.postimg.cc/D0qgVDXm/Untitled302-20260623112453.png" width="220">
+  <img src="https://i.postimg.cc/D0qgVDXm/Untitled302-20260623112453.png" width="520">
 </p>
 <p align="center">
-  <img src="https://i.postimg.cc/QxvXYyqJ/1000067082-removebg-preview.png" width="220">
+  <img src="https://i.postimg.cc/QxvXYyqJ/1000067082-removebg-preview.png" width="520">
 </p>
 <!-- Views Counter ABOVE -->
 <p align="center">
