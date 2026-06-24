@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.postimg.cc/ncGyBSPZ/1000067081-removebg-preview.png" width="520">
+  <img src="https://i.postimg.cc/ncGyBSPZ/1000067081-removebg-preview.png" width="540">
 </p>
 <p align="center">
   <img src="https://i.postimg.cc/D0qgVDXm/Untitled302-20260623112453.png" width="520">
@@ -10,7 +10,7 @@
 </p>
 <!-- Views Counter ABOVE -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eriis&label=命&color=000000"
+  <img src="https://komarev.com/ghpvc/?username=eriis&label=命&color=DA8FA6"
        width="90" alt="views">
 </p>
 
